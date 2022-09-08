@@ -1,8 +1,9 @@
 #include <stdio.h>
 /**
-* main - Entry poin
-* Description: use puts
+* main - Entry point
+* Description: use puts function
 * Return: 0
+*/
 
 int main(void)
 {
